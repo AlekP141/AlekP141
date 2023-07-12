@@ -4,6 +4,7 @@
 I’m currently learning **React**
 
 Reach me at **pialuchaa@btinternet.com**
+View my portfolio at **www.alekpialucha.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
