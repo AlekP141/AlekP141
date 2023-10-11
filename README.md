@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alek</h1>
 <h3 align="center">Full Stack Developer, previously working in Architecture</h3>
 
-I’m currently learning **React**
+I’m currently learning **TypeScript**
 
 Reach me at **pialuchaa@btinternet.com**
 
