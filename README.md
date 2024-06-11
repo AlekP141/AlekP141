@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alek</h1>
-<h3 align="center">Full Stack Developer, previously working in Architecture</h3>
+<h3 align="center">Junior Developer Support Engineer | Algolia</h3>
 
 I’m currently learning **TypeScript**
 
